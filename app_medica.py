@@ -62,9 +62,12 @@ while True:
         else:
             print("NO esta!!!!")                            
         os.system("pause")
+        
     if opcion == "3":
         os.system("cls")
 
         os.system("pause")
+        
+        
     if opcion == "4":
         break
